@@ -1,0 +1,10 @@
+<odoo>
+    <template id="my_cover_image_template">
+        <t t-call="web.layout">
+            <div class="oe_structure"/>
+            <div class="cover_image_container">
+                <img src="/Remove_Background/bg_remove/static/src/img" alt="Cover Image"/>
+            </div>
+        </t>
+    </template>
+</odoo>

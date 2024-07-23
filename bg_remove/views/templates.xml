@@ -3,7 +3,7 @@
         <t t-call="web.layout">
             <div class="oe_structure"/>
             <div class="cover_image_container">
-                <img src="/Remove_Background/bg_remove/static/src/img" alt="Cover Image"/>
+                <img src="/Remove_Background/bg_remove/static/src/img/cover_image.gif" alt="Cover Image"/>
             </div>
         </t>
     </template>

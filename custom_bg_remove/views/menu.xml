@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>zxw
+
+        <menuitem id="custom_remove_bg_menu1"
+            name="Remove Background"
+            sequence = "1"
+            action="action_home_menu"
+        />
+
+        <!-- <menuitem id="custom_remove_bg_menu2"
+            name="View gallary"
+            sequence="1"
+            action="action_gallary_menu"
+            /> -->
+
+            
+    </data>
+</odoo>

@@ -1,0 +1,12 @@
+.record_data{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.o_kanban_record{
+    background-color: lightblue;
+    cursor: pointer;
+}

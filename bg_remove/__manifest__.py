@@ -15,6 +15,9 @@
         'views/templates.xml',
         'security/ir.model.access.csv',
     ],
+    "images":[
+        'static/description/cover_image.jpg'
+    ],
     'installable': True,
     'auto_install': True,
     'assets': {

@@ -12,6 +12,7 @@
         'security/record_rules.xml',
         'views/views.xml',
         'views/menu.xml',
+        'views/templates.xml',
         'security/ir.model.access.csv',
     ],
     'installable': True,

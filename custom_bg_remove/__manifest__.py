@@ -1,13 +1,12 @@
 {
     'name': 'Remove Background',
     'version': '1.0',
-    'summary': 'Remove background of any image',
+    'summary': 'The Remove Background Module for Odoo offers a powerful solution to automatically remove backgrounds from images, streamlining your image editing process. Designed for ease of use, this module ensures high-quality results with minimal manual intervention.',
     'description': """
-        <p>Remove background from any image</p>
-        <p>you can remove it</p>
+        <p>This module provides an advanced solution for removing backgrounds from images within Odoo. It's designed to streamline your image editing process by automatically detecting and removing the background</p>
     """,
-    'author': 'Pukhraj kumawat',
-    'website': 'https://www.pk.com',
+    'author': 'Vidhema Technologies',
+    'website': 'https://www.vidhema.com',
     'depends': ['base'],
     'data': [
         'security/record_rules.xml',

@@ -16,7 +16,7 @@
         'security/ir.model.access.csv',
     ],
     "images":[
-        'static/description/banner.gif'
+        'static/description/banner1.gif'
     ],
     'installable': True,
     'auto_install': True,

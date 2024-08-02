@@ -5,6 +5,9 @@
     'description': """
         <p>This module provides an advanced solution for removing backgrounds from images within Odoo. It's designed to streamline your image editing process by automatically detecting and removing the background</p>
     """,
+    "price":"2.0",
+    "currency":"USD",
+    "license":"LGPL-3",
     'author': 'Vidhema Technologies',
     'website': 'https://www.vidhema.com',
     'depends': ['base'],
